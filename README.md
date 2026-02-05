@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazmendaliu1&label=Profile%20views&color=0e75b6&style=flat" alt="gazmendaliu1" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://gazmend.codefactory.live/](http://gazmend.codefactory.live/)
+- 👨‍💻 All of my projects are available at [http://gazmendaliu.com)
 
 - 📫 How to reach me **gazmend.aa@gmail.com**
 
